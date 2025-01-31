@@ -1,8 +1,5 @@
 package basicPrograms;
 //class and object using instance variable?
-
-
-
 //non-primitive/userdefined => class, object
 
 //Purpose:
