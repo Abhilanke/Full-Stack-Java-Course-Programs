@@ -1,4 +1,4 @@
-package basicPrograms;
+package datatypes;
 
 //Java features
 //1.class based

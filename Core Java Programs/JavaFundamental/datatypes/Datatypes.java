@@ -1,4 +1,4 @@
-package basicPrograms;
+package datatypes;
 
 //statically(compile) typed programming language =>c,cpp,java
 

@@ -48,7 +48,7 @@ public class Datatypes {
 	  System.out.println("float value of x = "+x);
 	   System.out.println("double value of y = "+y);
 	   
-	   boolean bl=true;    //true=1,false=0  //1 bit => either 0 or 1  // 1=True / 0=False
+	   boolean bl=true;    //true=1,false=0  //1 bit => either 0 or 1
 	   System.out.println(bl);
 	   
 	   char ch='y';           //2 bytes
