@@ -9,7 +9,7 @@ abstract class RamApp         //abstract class
       System.out.println("in gallery module....");
   }
   
-  abstract void audio();
+  abstract void audio();//abstract method => which is having only declaration not definition in one class
   abstract void video();
   abstract void callLogs();
   

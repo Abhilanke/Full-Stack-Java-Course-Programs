@@ -49,8 +49,23 @@ public class Operators {
 		int x=23,y=17;
 		int a1=(x++)-(--y)/(++x)*(x++);
 		int a2=((x++)+((--y))/y--);
-		System.out.println(a1);
-		System.out.println(a2);
+		System.out.println(a1+ " a1");
+		System.out.println(a2+ " a2");
+		System.out.println(x);
+		System.out.println(y);
+		
+//		a1 = 23 - 16 / 25 * 25;
+//		Evaluate:
+//		16 / 25 = 0 (integer division)
+//		0 * 25 = 0
+//		23 - 0 = 23
+//		a1 = 23
+		
+//		(26+15)/15
+//		15 / 15 = 1
+//		a2 = 26 + 1 = 27
+		
+		
 		
 		
 		

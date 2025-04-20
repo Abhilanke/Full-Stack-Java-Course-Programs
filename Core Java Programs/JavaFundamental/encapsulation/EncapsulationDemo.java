@@ -9,7 +9,7 @@ package encapsulation;
 //3.Example=> capsule,CD
 
 //4.How To Implement?
-//1.Declared all the isndtance var as a private
+//1.Declared all the instance var as a private
 //2.define Setter and getter all the veriable
 
 //5. Programs

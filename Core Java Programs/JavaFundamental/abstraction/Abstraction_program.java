@@ -8,10 +8,6 @@ package abstraction;
 //2.defination=> it is the process of hiding implementation 
 //example=> Email ,Any Software,remote
 //
-
-//Q.What is differance between concrete classes and abstract classes
-
-
 //abstract means hidden
 
 //abstraction/data hiding

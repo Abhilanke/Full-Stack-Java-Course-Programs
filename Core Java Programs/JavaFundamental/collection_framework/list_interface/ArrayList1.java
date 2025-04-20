@@ -8,7 +8,7 @@ import java.util.List;
 //collection=> List set,Map=>Inteface
 //collection = group of object(multiple oparation perform)
 //frameworks == frameworks nothig but predefine code 
-//colletions = class
+//Colletions = is a class
 
 
 //Collection => group of OBJECTS that may be of similar type or of different types
@@ -16,7 +16,7 @@ import java.util.List;
 
 //Collection Framework is divided into 2 categories
 //1.Collection interface => List,Set,Map
-//2.Collections  class
+//2.Collections =>  is a class
 
 //java.util
 
