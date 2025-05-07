@@ -2,6 +2,12 @@ package exception_handling;
 //Exception handling keywords/blocks {}
 //try,catch,finally,throw,throws
 
+/*Why we need to handle an exceptipn?
+//Ans =>
+-When an Exception occurs, the  normal   flow of the program is disrupted and the program/Application terminates abnormally, which is not recommended, therefore, these   exceptions are need to be handled.
+
+*/
+
 //try block must be followed by catch or finally
 public class Handling_an_exception {
 
